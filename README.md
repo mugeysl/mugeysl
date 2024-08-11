@@ -2,7 +2,7 @@
 <!--  -->
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-🚀 I am Müge YİŞİL, a third-year student in the Computer Engineering program at Çankırı Karatekin University, and I serve as an organizer in the Google Developer Student Clubs. I work with the Java programming language and the Spring Framework, participating in various projects to continuously improve my skills. Additionally, I am involved in web programming. I am a team player with developed problem-solving skills and an openness to new ideas. My career goal is to integrate my knowledge into real-world projects and produce innovative solutions in the software industry.
+🚀 I am Müge YİŞİL, a fourth-year student in the Computer Engineering program at Çankırı Karatekin University, and I serve as an organizer in the Google Developer Student Clubs. I work with the Java programming language and the Spring Framework, participating in various projects to continuously improve my skills. Additionally, I am involved in web programming. I am a team player with developed problem-solving skills and an openness to new ideas. My career goal is to integrate my knowledge into real-world projects and produce innovative solutions in the software industry.
 <br> 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
